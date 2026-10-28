@@ -1,0 +1,6 @@
+{
+  "name": "DrugWise",
+  "description": "Medicine lookup, interaction checker, digital medication log, and prescription reminders with OCR scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
